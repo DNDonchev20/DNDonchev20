@@ -1,1 +1,1 @@
-<img src="https://cdn.discordapp.com/attachments/1042148351703003328/1148448338484670475/kompot_banner.png"/>
+<img src="https://media.discordapp.net/attachments/1128373923470377170/1217195352491298928/Banner.png?ex=66032482&is=65f0af82&hm=79bc99e80230700e56adaa826a75a51c85786f7dd8419a6bc5fb39c2ad7c7144&=&format=webp&quality=lossless&width=1431&height=670"/>
