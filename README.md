@@ -1,1 +1,3 @@
-<img src="https://media.discordapp.net/attachments/1128373923470377170/1217195352491298928/Banner.png?ex=66032482&is=65f0af82&hm=79bc99e80230700e56adaa826a75a51c85786f7dd8419a6bc5fb39c2ad7c7144&=&format=webp&quality=lossless&width=1431&height=670"/>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/919273000526831728/1230368499415908442/banner.png?ex=663310f5&is=66209bf5&hm=b3d9570027122fb0dee8cae97c12e47f26b200b9242eda7c0d3616e502ff4876&=&format=webp&quality=lossless&width=409&height=106" alt="Light Theme Banner">
+</p>
