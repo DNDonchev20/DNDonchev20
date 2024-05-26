@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/919273000526831728/1230368499415908442/banner.png?ex=663310f5&is=66209bf5&hm=b3d9570027122fb0dee8cae97c12e47f26b200b9242eda7c0d3616e502ff4876&=&format=webp&quality=lossless&width=409&height=106" alt="Light Theme Banner">
+  <img src="https://cdn.discordapp.com/attachments/709644834423439360/1244226097214652496/Presentation.png?ex=6654575a&is=665305da&hm=fb16d9ffab336d7b74567f99957456a045280c252546ca96b5628ae366ada7b9&" alt="Kompot Banner">
 </p>
